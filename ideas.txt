@@ -1,4 +1,19 @@
-﻿Invariably every time Michael powers up his amplifier at the studio,
+songs:
+
+el dorado
+majesty
+cow
+natgeo
+trivial
+low interest
+breathing
+good book
+suit
+jackpot
+
+**********************************************************************
+
+Invariably every time Michael powers up his amplifier at the studio,
 bits and pieces of Christian radio leak out, which we hear between
 chords and outbursts of feedback.  One of the more common broadcasts
 includes a recitation of the rosary.  Now listen: yamaka-wearing Michael is
