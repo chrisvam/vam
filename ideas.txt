@@ -1,15 +1,18 @@
 songs:
 
-el dorado
-majesty
-cow
+*el dorado (6:49)
+*majesty (7:30)
+*cow (6:20)
 natgeo
-trivial
+*trivial (5:54)
 low interest
 breathing
 good book
 suit
 jackpot
+
+12" 45: 12 min
+10" 33: 12 min
 
 **********************************************************************
 
@@ -634,3 +637,13 @@ compromise man in a saddle of surrender and shade
 side winding simple living with whatever each has made
 the electrical tape is right on the mark
 yellow light baby and right from the start
+
+**********************************************************************
+
+And around the throne, on each side of the throne, are four living
+creatures, full of eyes in front and behind: the first living
+creature like a lion, the second living creature like an ox, the third
+living creature with the face of a man, and the fourth living creature
+like an eagle in flight. And the four living creatures, each of them
+with six wings, are full of eyes all around and within, and day and
+night they never stop
