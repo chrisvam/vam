@@ -1,19 +1,15 @@
-songs:
-
-*el dorado (6:49)
-*majesty (7:30)
-*cow (6:20)
-natgeo
-*trivial (5:54)
-low interest
-breathing
-good book
+majesty
+cow
+trivial
 suit
+low interest
+do it again
+el dorado
+good book
+natgeo
+
+breathing
 jackpot
-
-12" 45: 12 min
-10" 33: 12 min
-
 
 **********************************************************************
 
