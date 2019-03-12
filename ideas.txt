@@ -1,18 +1,3 @@
-majesty
-cow
-trivial
-suit
-low interest (break: g a bm g f#m g a)
-do it again
-el dorado
-good book
-natgeo
-
-breathing
-jackpot
-
-**********************************************************************
-
 Invariably every time Michael powers up his amplifier at the studio,
 bits and pieces of Christian radio leak out, which we hear between
 chords and outbursts of feedback.  One of the more common broadcasts
@@ -90,6 +75,7 @@ That's the real thing
 
 **********************************************************************
 
+errata
 too many inputs (an infinity of shit)
 too many channels
 too many celebs
@@ -842,3 +828,32 @@ i need a little more rope to fly to manhattan
 where the girls are so ... sad and (silent, solemn, suddenly)
 you can twist me
 til i'm dry
+
+**********************************************************************
+
+photos:
+
+2187
+2200
+2216
+2219
+2227
+2233
+2249
+2210
+2215
+
+mask
+265
+267
+272
+274
+
+keyhole
+005
+311
+256
+202
+759
+553
+607
