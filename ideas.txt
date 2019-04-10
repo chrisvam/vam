@@ -33,6 +33,7 @@ adventures of egglant and yolk
 **********************************************************************
 
 live ideas:
+projector: rhythm, story, one-slide-per-song
 *this song has 27 chords
 move drumkit into audience
 extra amp in audience with a/b switch
@@ -75,6 +76,8 @@ That's the real thing
 
 **********************************************************************
 
+secure your lifestyle
+e-meter
 errata
 too many inputs (an infinity of shit)
 too many channels
