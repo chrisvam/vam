@@ -90,6 +90,7 @@ That's the real thing
 
 **********************************************************************
 
+flod
 critical error
 It seems I've woken up in a world significantly different from the one I was in two days ago--and/or the one that I remember from my childhood and most of my life.
 where is my cab
@@ -972,6 +973,13 @@ slides:
 137 girl in hat *
 
 **********************************************************************
+
+patch 121 on novation and g-lead patch (68, copied to 121) on korg
+tempo at 78 on novation
+novation midi out to korg midi in
+play with osc filter mod to get novation "solo"
+osc filter mod normally at 80
+turn off latch and use pitch wheel to get ugly break
 
 make any day an occasion
 perform for me the following function
