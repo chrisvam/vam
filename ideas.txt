@@ -979,7 +979,7 @@ tempo at 78 on novation
 novation midi out to korg midi in
 play with osc filter mod to get novation "solo"
 osc filter mod normally at 80
-turn off latch and use pitch wheel to get ugly break
+turn off latch (and quickly back on) and use pitch wheel to get ugly break
 
 make any day an occasion
 perform for me the following function
