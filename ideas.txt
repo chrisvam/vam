@@ -981,6 +981,9 @@ play with osc filter mod to get novation "solo"
 osc filter mod normally at 80
 turn off latch (and quickly back on) and use pitch wheel to get ugly break
 
+verse/uglybreak: c f c
+chorus: lower f# eb c
+
 make any day an occasion
 perform for me the following function
 spin all of your nothing to nowhere all of the time
