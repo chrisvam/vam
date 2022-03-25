@@ -1,3 +1,25 @@
+natgeo
+slides
+trivial
+fall
+weight
+ikea
+florida
+
+ricky
+suit
+florida
+moth
+weight
+trivial
+aliyah
+fall
+ikea
+ious and ufos
+slides
+natgeo
+x+1
+
 seeds:
 dallas cowboys: https://drive.google.com/file/d/1Wh_ByrA1nEsf8GpjS4NUkaRLM9Qyj-8E/view?usp=sharing
 land of coughs: https://drive.google.com/file/d/1pjvE8Wptas6Rwb_SKgSkWcR1JIvDAW0N/view?usp=sharing
@@ -10,7 +32,7 @@ teach the world to sing: https://drive.google.com/file/d/1GCFpwFRNaQUNzxz1DovAdQ
 real estate, consolidated: https://drive.google.com/file/d/1h_spOr6uxoZFGN1XNzxOEBJYkO_NbWba/view?usp=sharing
 intertwine: https://drive.google.com/file/d/1_sdB7Avyfo7a4OR_I7uAHwpS2rScK3k9/view?usp=sharing
 blackrock: https://drive.google.com/file/d/1O0BoJhPVIykBt9yDnjDb_FPmze7YuPmP/view?usp=sharing
-
+snowplow
 TSC, tube saturator, harlequin
 
 **********************************************************************
@@ -50,6 +72,8 @@ adventures of eggplant and yolk
 **********************************************************************
 
 live ideas:
+* who here is familiar with the band saigon kick? well, the end of this next song includes a short tutorial, so please pay attention.
+* i feel like i'm floating in the great pacific garbage patch
 *this next song has 7 chords
 *slides: this is like youtube, only slower, and the slides steal your soul
 * last song called lovin' touchin' squeezin' (or: there are too many scabs on my iguana) and by remarkable coincidence, so is the next
@@ -1252,27 +1276,26 @@ thousands of miles to be who you are
 
 the great state of florida
 
-i live in dade county
-the heart of miami
-not silicon valley
+i live in miami
+the heart of dade county
+not the big apple
 but it cuts just the same
 
-recent humidity
+a recent humidity
 with increased co-morbidity (liquidity/morality/commodity)
-forced a standing committee
+forced a state house committee
 to cut just the same
 
 one thousand four hundred and 95 miles
 of interstate highways and political trials
-keeps us on target keeps us in sin
+the gulf and atlantic keeping us in
 til erasure erasure starts over again
 
 bask in the light of the florida keys
-sunburnt windswept
-impossible 
+sunburnt windswept (impossible)
 the sun in her hair
-the warmth of the air
-the governors care
+the heat of the air
+the governor's care
 
 it's all about
 tampa
@@ -1281,11 +1304,11 @@ tampa
 that's where it's at
 really happening
 tampa
-magnificent
+*magnificent
 
-state farm insurance
+on dasher prancer donner blitzen comet cupid (dancer, vixen)
 
-on dasher prancer donner blitzen comet cupid
+thank you florida!
 
 **********************************************************************
 
@@ -1325,13 +1348,12 @@ because (*)i am a lamppost i am a valve stem i am that which you may require
 with a (*)threaded connection to a separate light cone on which i minimal(!)ly respire
 
 i am (*)everywhere forever in an instant that is constant though it rarely feels terrific but it's all right now
-and the squares are doing backflips over instamatic pinups of ungodly looking flesh that would sink a german snow plow
+and the squares are doing backflips over instamatic pinups of ungodly looking flesh that would sink into a snow plow
 hurry up and end
-hurry up and end
-because i am a lamppost
 
-you are constantly encroaching on a region of inflation that makes quantitative easing look like hit hi hats
+you are constantly encroaching on a region of inflation that makes quantitative easing look like hip hi hats
 and i'll go zero to sixty in a matter of a moment minimally so said sally cuz it don't really do that
+hurry up and end
 
 **********************************************************************
 
@@ -1437,14 +1459,14 @@ though i can't quite see through the clouds in my eyes
 i gotta sinking no win feeling that it's all just gonna be intertwine
 intertwine
 
-hundred thousand f10s
+ok kalishnakov
 at the local chevron
 now it's too far gone
 keep on dragging on
 i'm in saigon
 kick
 
-ok kalishnakov
+hundred thousand f10s
 yeah it was nice
 i got it good now
 under market price
@@ -1525,3 +1547,21 @@ record pressing plants mentioned by John Golden:
 
 rti record technology inc
 gottagroove
+
+**********************************************************************
+
+S: What's all this about Saigon Kick, Chris?
+C: That's an excellent question, Steve, I'm glad you asked.
+   Saigon Kick was an early 90's hair metal band that formed in Miami
+S: I can't recall any songs by them off the top of my head
+C: They had a hit single Love Is On The Way from their second album titled The Lizard
+S: Wasn't Matt Kramer the lead vocalist for that band?
+C: That's right, Steve, Matt Kramer along with Jason Bieler on guitar,
+   Sean Puckett on bass and Phil Varone on drums formed the original lineup
+S: Are they still around today?
+C: They broke up around 2001, but I think that was unrelated to 9/11, so
+   just a coincidence.  They reunited in 2012 to play some shows in Florida, NY and
+   Las Vegas.
+S: That's good to know Chris, thanks for filling me in.
+C: No problem Steve, it's important to keep expanding your horizons.
+(song ends)
