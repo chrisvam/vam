@@ -73,24 +73,25 @@ adventures of eggplant and yolk
 
 live ideas:
 * who here is familiar with the band saigon kick? well, the end of this next song includes a short tutorial, so please pay attention.
-* i feel like i'm floating in the great pacific garbage patch
-*this next song has 7 chords
-*slides: this is like youtube, only slower, and the slides steal your soul
-* last song called lovin' touchin' squeezin' (or: there are too many scabs on my iguana) and by remarkable coincidence, so is the next
-* revelations
+** i feel like i'm floating in the great pacific garbage patch
+** this next song has 7 chords
+** slides: this is like youtube, only slower, and the slides steal your soul
+** last song called lovin' touchin' squeezin' (or: there are too many scabs on my iguana) and by remarkable coincidence, so is the next
+** revelations
+** for a disfigured schizophrenic you have this town pretty wired
+** on bass guitar
+** i could break a hip
 * steve hits random things during ikea
 * words, not count, in trivial trash-can
 read revelations
 whereas once i was blind, now i can see
 who has more faith in god than ...
-for a disfigured schizophrenic you have this town pretty wired
 zz dance
 portable strobe
 VAM: for the greater glory of god (in excelsio dei)
 next song is vam season 3 episode 4
 flour makeup
 matching masks for ken/will/jake
-*unexpect the expected
 last song called <weird title> in D-minor
 *fall drone cover before trivial: the lines on the road are still spinning, i see them there from the ground; and we all need to see where the lines reach; cuz they'll lead us to hell
 how many of you used to be seventeen?
@@ -113,7 +114,6 @@ morley keyboard
 walkie talkies
 d&d stats for members
 who saw the last star trek film
-*I could break a hip
 *don't cheer
 *merch: vertacyn arc materializer football jersey
 ex cetera
@@ -142,6 +142,11 @@ That's the real thing
 
 **********************************************************************
 
+made from the wood of the true cross
+everything is true, but the facts have been changed to protect the innocent
+the loop remains the same
+lilies of the valley
+pious, devout
 your records spin at 16rpm
 acquired
 in the sweet by and by
@@ -1058,6 +1063,7 @@ and this is what they sang
 wide receiver
 john elway
 sinking knee deep
+pious devout
 
 **********************************************************************
 
@@ -1437,6 +1443,12 @@ the sweat on michael kors after unending price wars
 satisfactory
 let me down get me back down downtown
 
+chords:
+verses: D Bflat (FE)
+ending: D(4) Bflat(3) A(2) G(2) Dflat(2) Fsharp(2)
+        B(1) G(1) Csharp(1) A(1)
+	D(8?) Bflat(2?) D
+
 **********************************************************************
 
 ikea video?
@@ -1591,3 +1603,56 @@ C: They broke up around 2001, but I think that was unrelated to 9/11, so
 S: That's good to know Chris, thanks for filling me in.
 C: No problem Steve, it's important to keep expanding your horizons.
 (song ends)
+
+**********************************************************************
+
+Verse:
+it was the fourth quarter
+and the cowboys were down by eleven
+when the defensive squad took the field
+watson crunched the numbers for this situation
+mathematically, there was one chance in thirty-five of turning it around
+
+Pre-chorus:
+the fans were behind them
+and looked toward heaven
+raising their voices, they sang
+
+Chorus:
+ahhhh, oooooo, etcetera
+Will*
+
+Bridge:   CVCBVC
+a long, long pass to the wide receiver
+alone, moving fast, and unguarded 
+then the cornerback leapt
+as if possessed 
+by the ghost of deion sanders 
+and snatched the ball right out of the sky
+
+Verse:
+he flew like an angel 
+and the earth beneath him transformed
+the field now a malodourous fen
+the players howling out a tattoo of pain as each sunken leg shattered 
+in the merciless crush of unrelenting muck, mire, sludge and filth
+
+Pre-chorus:
+the fans were astounded
+and looked toward heaven
+raising their voices, they sang
+
+Chorus:
+ahhhh, oooooo, etcetera
+Will: guitar solo
+
+Verse/Outro:
+then the game was over
+the dashing young men now broken
+and the cowboys were still down by eleven
+
+*
+hear our prayers lord
+grant us your divine intervention
+that we may win today
+to be victorious in our division
