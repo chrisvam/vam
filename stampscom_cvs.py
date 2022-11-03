@@ -1,12 +1,13 @@
 import csv
 
-offset=200
+offset=400
 
 with open('sample.csv', newline='') as samplefile:
     sample_reader = csv.reader(samplefile)
-    with open('addresses.csv', newline='') as addrfile:
+    with open('press.csv', newline='') as addrfile:
+    #with open('addresses.csv', newline='') as addrfile:
         addr_reader = csv.reader(addrfile)
-        with open('import.csv', 'w', newline='') as outfile:
+        with open('import_press.csv', 'w', newline='') as outfile:
             outwriter = csv.writer(outfile)
             firstrow = next(sample_reader)
             outwriter.writerow(firstrow)
