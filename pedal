@@ -1,0 +1,30 @@
+minilogue: subtract 1 from mastermind
+rc5/ve200: subtract 1 from desired patch
+novation: don't need to subtract 1
+
+ve500:
+60: default
+61: dist
+62: distdel
+63: downby11
+64: boxing
+65: radiodel
+66: radio
+67: cow
+68: bypass
+
+**********************************************************************
+
+mastermind 2.7x11x5, 150mA
+
+voodoo: 4 100mA, 2 250mA, (cable to create 200mA)
+ - plug: 1.25"
+
+hx effects (stomp: 2.6x7x5, xl: 2.7x12.5x4.7, effects: 2.8x10.8x7.8) midi down
+boss ve-500 6x6x2.5 210mA (no phantom) $480 (ve-20 was 190mA) midi down
+boss rc-5 pedal 170mA $200 (bmidi-5-35 midi to 3.5mm cable) midi trs
+  jamman was 350mA according to manual, center-negative but
+  thegearpage.net says 200mA
+zvex
+exp ped, 
+midi quadra thru, midi down
