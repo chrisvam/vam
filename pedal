@@ -3,9 +3,10 @@ octave dist), 34 (volume swell delay), 36 (nts del), 37 (thin wah), 39
 (vol trem), 40(dist), 43(dist), 48 (autoswell, maybe polysustain), 50
 (gain dist)
 
-minilogue: subtract 1 from mastermind
-rc5/ve200: subtract 1 from desired patch
-novation: don't need to subtract 1
+looper    (midi channel 1): subtract 1 from desired patch
+minilogue (midi channel 2): subtract 1 from desired patch
+novation  (midi channel 3): don't need to subtract 1
+ve500     (midi channel 4): subtract 1 from desired patch
 
 ve500:
 60: default
