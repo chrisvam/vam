@@ -1,7 +1,9 @@
-hx effects presets: 3 (autowah), 16 (single note synth), 30 (pedal
-octave dist), 34 (volume swell delay), 36 (nts del), 37 (thin wah), 39
-(vol trem), 40(dist), 43(dist), 48 (autoswell, maybe polysustain), 50
-(gain dist)
+check bypass (snapshot 4, including keyboards)
+
+hx effects presets (now in 60-70): 3 (autowah), 16 (single note
+synth), 30 (pedal octave dist), 34 (volume swell delay), 36 (nts del),
+37 (thin wah), 39 (vol trem), 40(dist), 43(dist), 48 (autoswell, maybe
+polysustain), 50 (gain dist)
 
 looper    (midi channel 1): subtract 1 from desired patch
 minilogue (midi channel 2): subtract 1 from desired patch
@@ -34,3 +36,23 @@ boss rc-5 pedal 170mA $200 (bmidi-5-35 midi to 3.5mm cable) midi trs
 zvex
 exp ped, 
 midi quadra thru, midi down
+
+**********************************************************************
+
+https://helixhelp.com/models?categoryId=1
+
+stupor od: boss super overdrive
+scream 808: ibanez tube screamer
+deez one vintg, deez one mod: boss distortion ds1
+vermin dist: rat
+triangle fuzz: electro-harmonix big muff
+bighorn fuzz: 1973 ram's head big muff
+arbitrator fuzz: arbiter fuzz face
+swedish chainsaw: boss heavy metal
+top secret od: dod overdrive 250
+obsidian 7000: darkglass d7k
+dhyana drive: zen drive
+heir apprent: prince of tone
+minotaur: klon centaur
+pillars: eqd plumes
+tone sovereign: analogman king of tone
