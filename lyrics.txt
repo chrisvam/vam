@@ -346,13 +346,88 @@ Im a lone wolf ligger
  Im a backbone shiver
  and Im a bundle of joy
 
+break: f# c# 2x d e f#
+b g e f#
+
+**********************************************************************&
+B            G
+My life's in jeopardy
+G                                  E
+Murdered in cold blood is what I'm gonna be
+  D                     Dsus4 D          E                     B
+I ain't been home since Friday night and now my wife is comin' after me
+
+C#m
+Give me police protection, 
+      G                             E       Esus4 E
+Gonna buy a gun so I can look after number one
+D                Dsus4   D        G
+Give me a bodyguard, a black belt Judo expert 
+       F#          (F#7 F F#7 F)
+With a machine gun.
+
+ 
+||: B    | B A/B  :|| x4
+
+B                       G
+Gonna buy a tank and an aeroplane
+         G                              E      Esus4   E
+When she catches up with me won't be no time to explain
+    D              Dsus4 D                  E
+She thinks I've been with another woman and that's enough
+                 B       B A/B B
+To send her half insane
+
+C#m                       G                           E         Esus4  E
+Gonna buy a fast car, put on my lead boots and take a long, long drive
+  D            Dsus4 D       G                     F#
+I may end up spending all my money, but I'll still be alive.
+
+E                    F#
+All I did was have a bit too much to drink
+      B                C#m      C#m B/C#
+And I picked the wrong precinct
+    E                        F#                      B
+Got picked up by the law and now I ain't got time to think.
+
+||: B   | B A/B  :||
+
+B                       G
+Gonna buy a tank and an aeroplane
+         G                              E      Esus4   E
+When she catches up with me won't be no time to explain
+    D              Dsus4 D                  E
+She thinks I've been with another woman and that's enough
+                 B       B A/B B
+To send her half insane
+
+C#m                       G                           E         Esus4  E
+Gonna buy a fast car, put on my lead boots and take a long, long drive
+  D            Dsus4 D       G                     F#
+I may end up spending all my money, but I'll still be alive.
+
+E                     F#
+And I'm oh, so tired of running
+B                     C#
+Gonna lay down on the floor
+E
+I gotta rest sometime
+F#                               B
+So I can get to run some more, yeah!
+
+B     B A/B
+She's comin'
+She's comin'
+
+rain song tuning DGCGCD
+
 **********************************************************************
 
 Did I see you down
 In a young girl's town
 With your mother in so much pain?
-I was almost there
-At the top of the stairs
+I was almost there G A
+At the top of the stairs Bm E
 With her screamin' in the rain.
 
 Did she wake you up
