@@ -1,14 +1,17 @@
+set both CC to 0, set PROG to number below
+looper    (midi channel 1): subtract 1 from desired patch
+minilogue (midi channel 2): subtract 1 from desired patch
+novation  (midi channel 3): don't need to subtract 1
+ve500     (midi channel 4): subtract 1 from desired patch
+program expression pedal: hold down parameter-adjust knob
+
+
 check bypass (snapshot 4, including keyboards)
 
 hx effects presets (now in 60-70): 3 (autowah), 16 (single note
 synth), 30 (pedal octave dist), 34 (volume swell delay), 36 (nts del),
 37 (thin wah), 39 (vol trem), 40(dist), 43(dist), 48 (autoswell, maybe
 polysustain), 50 (gain dist)
-
-looper    (midi channel 1): subtract 1 from desired patch
-minilogue (midi channel 2): subtract 1 from desired patch
-novation  (midi channel 3): don't need to subtract 1
-ve500     (midi channel 4): subtract 1 from desired patch
 
 ve500:
 60: default
@@ -27,6 +30,13 @@ mastermind 2.7x11x5, 150mA
 
 voodoo: 4 100mA, 2 250mA, (cable to create 200mA)
  - plug: 1.25"
+outputs 1-4 9V/12V 100mA outputs
+outputs 5,6 9V/12V 250mA outputs
+outputs 7,8 9V 100mA with sag feature
+2 small knobs select sag feature
+8 dipswitches select 9V/12V output
+outputs 3,5,6 used (100mA: fuzz factory, 250mA ve-500, 250mA rc-5)
+https://voodoolab.com/wp-content/uploads/2022/08/pedal_power_2plus_manual.pdf
 
 hx effects (stomp: 2.6x7x5, xl: 2.7x12.5x4.7, effects: 2.8x10.8x7.8) midi down
 boss ve-500 6x6x2.5 210mA (no phantom) $480 (ve-20 was 190mA) midi down
