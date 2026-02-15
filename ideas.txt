@@ -1,4 +1,24 @@
-ebow
+next recording:
+7 bridges
+genie
+sleep
+
+new songs:
+easter island
+digital dustbowl
+for mal di hyde
+don henley
+luka 1917
+take it down
+florida
+nicotine chewing gum
+
+existing songs:
+fall
+trivial
+slides
+7 bridges
+genie
 big tobacco
 failing
 rancho
@@ -6,8 +26,18 @@ moth
 industry
 down by 11
 majesty
-boxing
-florida
+
+black xmas:
+(ivy) 7 bridges
+weight loss
+down by 11
+industry
+fall
+rancho
+tobacco
+trivial
+
+moth
 
 next album:
 - morse code message
@@ -75,6 +105,7 @@ adventures of eggplant and yolk
 **********************************************************************
 
 live ideas:
+ladies: conditioner (cautionary tale)
 rush riff with gzerpt and squeeky violin
 i feel like i'm at guitar center
 liberty liberty liberty song
@@ -158,8 +189,20 @@ That's the real thing
 
 **********************************************************************
 
-it just tastes like it's not going to work
-the captain has turned on the faster-seat-belt sign
+the world is flat
+gas food ammo
+what can what can you do?
+no wonder my eyelid is twitching
+wake up dead
+dying and buying
+a little bit of sick
+what a surprise / the light in your eyes
+zi've got my guitar in a bag
+standing still racing through time, when you're down to one string you're mine
+and so it goes
+torpedo the damned
+this just tastes like it's not going to work
+the captain has turned on the fasten-seat-belt sign
 this ghosttown is a boomtown
 _ if only i were me _ and if only we were you
 hands that are shaking
@@ -2212,16 +2255,34 @@ introspectivehypertensiveunproductivenotinlovewith day-glo
 
 **********************************************************************
 
-so it's like this
+so there is a story
+and it proceeds as follows
+at guitar center
+this ... sounds similar
+there is an ibanez
+steve vai model, metallic silver
 im tense
-im hypertensive
+hypertensive
+
 hunted, hit
 hunted, hit
-hypertension sets it so theres not a lotta getup and go
-vaccination complication unproductive not in love with mexico (day-glo)
+
+hypertension sets in so theres not a lotta getup and go
+vaccination complication unproductive not in love with lay low
 (beat) i need to misremember (beat) you looked exactly through her
-now i feel the afterglow
-get your whites whiter get your skin cleaner in albuquerque new mexico
+now i burn in the afterglow
+get your hair whitened get your white skin tightened 
+
+an attempt to purchase guitar strings
+but this unit is not packaged for individual sale
+this unit is not packaged for individual sale
+air guitar, steve vai model
+my hands are shaking now
+uncontrollable
+im tense
+hypertensive
+
+tense
 
 **********************************************************************
 
@@ -2241,6 +2302,9 @@ roll tide
 i channel don henley
 
 korg patch 13 (down-pitched?)
+novation patch 37 with pitch shift 24? (too silly?)
+
+a song about being possessed by don henley
 
 hunted and promoted
 rx rx rx alright
@@ -2259,6 +2323,13 @@ laundry: he looks right out and through me
 i can't control these
 and always in threes
 he never leaves he never leaves
+
+#i've got gas food and ammo
+#my eyelid asks him when to twitch
+i've got gas food and hotel
+california in my head
+i have my guitar in a bag
+and then my limbs he start to bend
 
 solo chords: f e-flat f# c# d e-flat
 
@@ -2285,7 +2356,7 @@ _ to me _ black is white but to him is crystal clear (fewer syllables)
 he be king
 a conglomerate kalishnikov sleeping with the romanovs
 
-minimizing regulated overseas networks/backdoors in our diebold machines
+minimizing regulated overseas tax
 offshore, offshore, hey
 i need a reason for formula1 i need
 eight great reasons and no cost overrun
@@ -2421,7 +2492,7 @@ you say please and i say well it depends
 i carry the fluid back to the end of the line, man
 then i carry it back, back to the beginning again
 
-he was a good man
+he was a man
 he was a family man
 he was righteous in the eyes of god
 the only way out is through
@@ -2529,3 +2600,32 @@ i will become one of you
 
 i'll color your life with black and white
 i'll color your life with sherwin williams
+
+**********************************************************************
+
+field of light / easter island:
+
+novation patch 22, 110bpm or patch 85 controlled by LFO
+boxing day vox
+
+**********************************************************************
+
+standing here for all those years
+if a statue could shed stone tears
+peace by day
+war by night
+their ancient walls protect them now
+what can, what can you do
+and so it goes
+he is still in there still
+not just the plaguerism but the plague
+
+earth is flat
+statue life hard
+tempus fugit
+flies need no lord
+no trees stand
+doctors built horde
+
+and so it goes
+what can, what can you do
