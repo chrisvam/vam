@@ -1,7 +1,10 @@
 next recording:
-7 bridges
-genie
-sleep
+7 bridges 105 141 106
+genie 70
+sleep 128 100
+don henley 110
+dustbowl 69 or 70
+easter island 119 or 120
 
 new songs:
 easter island
@@ -189,6 +192,17 @@ That's the real thing
 
 **********************************************************************
 
+torpor
+an echo of your shadow
+the national chains
+what can, what can you do
+and so it goes
+he is still in there still
+not just the plaguerism but the plague
+who am i to question the will of the creator
+cease and disorder
+stamplicker
+the cobbler hobbler
 the world is flat
 gas food ammo
 what can what can you do?
@@ -2301,6 +2315,7 @@ roll tide
 
 i channel don henley
 
+moog bank 2 patch 9 elongated
 korg patch 13 (down-pitched?)
 novation patch 37 with pitch shift 24? (too silly?)
 
@@ -2324,12 +2339,10 @@ i can't control these
 and always in threes
 he never leaves he never leaves
 
-#i've got gas food and ammo
-#my eyelid asks him when to twitch
-i've got gas food and hotel
-california in my head
-i have my guitar in a bag
-and then my limbs he start to bend
+i've got gas food and ammo
+he tell my eyelid when to twitch
+i've got my guitar in a bag
+and with my limbs he start to lurch
 
 solo chords: f e-flat f# c# d e-flat
 
@@ -2610,22 +2623,48 @@ boxing day vox
 
 **********************************************************************
 
-standing here for all those years
-if a statue could shed stone tears
-peace by day
-war by night
-their ancient walls protect them now
-what can, what can you do
-and so it goes
-he is still in there still
-not just the plaguerism but the plague
+break: 8 g#, g e-flat c a-flat,
+4 weird d7 (f# on high string), 4 weird b-flat (f on high string)
+hold e
+drop-d rhythmic
 
-earth is flat
-statue life hard
-tempus fugit
-flies need no lord
+ascending: octaves: a, a-flat, g, (e-flat on a-string g# (7th) on b-string)
+
+earth is flat (cease and disorder)
+statue life hard (you are a stamplicker)
+tempus fugit, (dying and buying)
+flies need no lord, (a little bit of sick)
 no trees stand
 doctors built horde
 
 and so it goes
 what can, what can you do
+
+**********************************************************************
+
+digital dustbowl
+
+they came with greed stuck between their teeth
+chewing stories of digital gold
+the wealth they made was beyond belief
+the bay was the loaded field
+never even asking if they had the right
+they are miners on the ships of 49
+pouring out from the laden hold to the digital dustbowl
+
+after reaping and raping everything they could
+black rock turning blue
+they bought up the houses, the streets and the sky
+the sky went through the root
+but interest must be paid to make the lenders whole
+shotguns hunting for the overly bold
+and we all were dragged down in the digital dustbowl
+
+(chorus)
+the wind came blowin like we knew it would
+brushing ira's and fortunes aside
+the jobs all left for other states
+like the bay and its rising tides
+the grid was seeded and harrvested hard
+startup end in a fold
+and all that is left behind is the digital dustbowl
