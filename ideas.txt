@@ -8,6 +8,7 @@ easter island 119 or 120
 tobacco 180
 rancho 122
 industry 121
+weight 136
 
 new songs:
 easter island
@@ -196,6 +197,8 @@ That's the real thing
 
 **********************************************************************
 
+nativity panthers
+on another planet
 the logic of a dream
 cathode ray goddess
 united by telegraphy!
@@ -216,6 +219,7 @@ sub aquatic static apnea
 out here in television land
 torpor
 an echo of your shadow
+  echo shadow what can i do
 the national chains
 what can, what can you do
 and so it goes
@@ -2682,15 +2686,15 @@ digital dustbowl
 they came with greed stuck between their teeth
 chewing stories of digital gold
 the wealth they made was beyond belief
-the bay was the loaded field
+the bay was their loaded field
 never even asking if they had the right
 they are miners on the ships of 49
-pouring out from the laden hold to the digital dustbowl
+pouring from the laden hold to the digital dustbowl
 
 after reaping and raping everything they could
 black rock turning blue
 they bought up the houses, the streets and the sky
-the sky went through the root
+the sky went through the roof
 but interest must be paid to make the lenders whole
 shotguns shells for the overly bold
 and we all were dragged down in the digital dustbowl
@@ -2700,7 +2704,7 @@ the wind came blowin like we knew it would
 brushing ira's and fortunes aside
 the jobs all left for other states
 like the bay and its rising tides
-the grid was seeded and harrvested hard
+the grid was seeded and the harvest hard
 startup end in a fold
 and all that is left behind is the digital dustbowl
 
@@ -2757,6 +2761,8 @@ high-vox: em7sharp9 em9 c cm g em7 dsus4
 turn: am cmajor7 g em7 c cm am7 f#m7sharp9
 crashturn: g gflat5 c9 cm g em7 d7 f#dim
 
+rush takes a galvanized pipe to the knees of nbc
+
 out here in television land
 united by telegraphy (i took a)
 length, of galvanized pipe (to the)
@@ -2765,8 +2771,19 @@ the clowns at nbc
 though far too premature
 i feel like mary tyler moore
 with a 38 share of
-whatever i hide in your head
+whatever i say in your ear
 
 freedom city
 signed an agreement
 mary tyler moore
+
+**********************************************************************
+
+stamplicker
+they are nativity panthers
+they are still out there still
+with the logic of a dream
+with the sound of 1000 phones in airplane mode
+now the results of your decision can clutter the future
+nabisco san francisco
+cease and disorder
